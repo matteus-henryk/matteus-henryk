@@ -1,4 +1,4 @@
-<h3>Olá</h3> :wave: meu nome é <strong>Matteus henryk</strong>, tenho 20 anos de Londrina, Paraná.
+<h3>Olá</h3> :wave: meu nome é <strong>Matteus henryk</strong>, tenho 20 anos de Londrina, Paraná.<br>
 :mortar_board: Estou na luta para me tornar um Dev, a tecnologia que estou aprendendo agora é  <img src = "https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" /> 
 Tecnologias aprendidas:
 <img src = "https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" />
