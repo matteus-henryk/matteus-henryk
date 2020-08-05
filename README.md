@@ -1,5 +1,7 @@
 <h3>Olá</h3> :wave: meu nome é <strong>Matteus henryk</strong>, tenho 20 anos de Londrina, Paraná.
-:computer::mortar_board: Atualmente estou estudando desenvolvimento Web, mais especificamente <img src = "https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" /> .
+:mortar_board: Atualmente estou estudando desenvolvimento Web, mais especificamente <img src = "https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" /> 
+Meu sonho é poder ganhar a vida atravez das minhas linhas de codigo :heart:
+Meus hobbies são games :video_game: e passar horas codando :computer:
 Tenho diversos projetos feitos durante imersões, cursos ou feitos por mim e vovê pode ficar a vontade para explorar.
 Estou aberto para networking :wink:, você pode me encontrar nas redes sociais a baixo :point_down:<br><br>
 <a href="https://www.linkedin.com/in/matteus-henryk-086451196/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
