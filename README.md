@@ -7,9 +7,9 @@ A tecnologia que estou aprendendo agora é  <img src = "https://img.shields.io/b
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 Tecnologias aprendidas:
-<img src = "https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" />
-<img src = "https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white" />
-<img src="	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 Meu sonho é poder ganhar a vida atravez das minhas linhas de codigo :heart:
 Meus hobbies são games :video_game: e passar horas codando :computer:
