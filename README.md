@@ -1,9 +1,16 @@
 <h3>Olá</h3> :wave: meu nome é <strong>Matteus henryk</strong>, tenho 20 anos de Londrina, Paraná.<br>
 :mortar_board: Estou na luta para me tornar um Dev.<br> 
-A tecnologia que estou aprendendo agora é  <img src = "https://img.shields.io/badge/nodejs-%68a063.svg?&style=flat-square&logo=nodejs&logoColor=white" /> 
+A tecnologia que estou aprendendo agora é  <img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 Tecnologias aprendidas:
 <img src = "https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" />
 <img src = "https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white" />
+<img src="	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 Meu sonho é poder ganhar a vida atravez das minhas linhas de codigo :heart:
 Meus hobbies são games :video_game: e passar horas codando :computer:
 Tenho diversos projetos feitos durante imersões, cursos ou feitos por mim e vovê pode ficar a vontade para explorar.
