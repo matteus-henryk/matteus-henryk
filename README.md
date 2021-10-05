@@ -5,7 +5,7 @@ Tecnologias aprendidas:
 <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 Meu sonho é poder ganhar a vida atravez das minhas linhas de codigo :heart:
 Meus hobbies são games :video_game: e passar horas codando :computer:
-Tenho diversos projetos feitos durante imersões, cursos ou feitos por mim e vovê pode ficar a vontade para explorar.
+Tenho diversos projetos feitos durante imersões, cursos ou feitos por mim e você pode ficar a vontade para explorar.
 Estou aberto para networking :wink:, você pode me encontrar nas redes sociais a baixo :point_down:<br><br>
 <a href="https://www.linkedin.com/in/matteus-henryk-086451196/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/matteusfrancischini/?hl=pt-br"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
